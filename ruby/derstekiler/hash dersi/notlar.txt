@@ -1,0 +1,9 @@
+hash(sözlük) bilgisayar bilimlerinde önemli bir yer kaplar 
+hash'de key(anahtar) ve values(değerler) vardır
+h = {kıvrık parantez ile temsil edilir}
+h = {'baba' =>(hash roketi) '053377867890'}-------->Burda baba kelimesi key , numara ise values 
+Hasde key-value çiftini bir eleman olarak görür
+Olmayan bir elemana ulaşmak hata vermez nill(yokluk) sonucunu verir
+Hash de anahtarlar illaki string olmak zorunda değiller
+values ise hertürlü veri tipi kullanılabilir olabilir örn dizi olabilir
+ 

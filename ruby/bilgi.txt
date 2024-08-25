@@ -1,0 +1,7 @@
+ADI: MUSTAFA
+SOYADI : YILDIRIM
+OGRENCI NO : 2006392
+BOLUMU : BİLGİSAYAR MÜHENDİSLİĞİ 
+SINIF : 1 
+mustafa-->19 mayıs üniversitesi 
+durumu:aktif

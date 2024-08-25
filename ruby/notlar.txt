@@ -1,0 +1,2 @@
+ruby *y demek y nin birden fazla değer alabileceğini gösterir
+index negatif girmek sondan baslayarak sayar
